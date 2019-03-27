@@ -10,6 +10,8 @@
   "dependencies": {
     "async-validator": "^1.10.1",
     "axios": "^0.18.0",
+    "babel-core": "^6.26.3",
+    "core-js": "^3.0.0",
     "element-ui": "^2.6.1",
     "js-cookie": "^2.2.0",
     "lodash": "^4.17.11",
